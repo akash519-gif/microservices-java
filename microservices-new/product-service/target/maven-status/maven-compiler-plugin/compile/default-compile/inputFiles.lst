@@ -1,0 +1,7 @@
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\ProductServiceApplication.java
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\model\Product.java
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\controller\ProductController.java
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\service\ProductService.java
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\dto\ProductResponse.java
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\repository\ProductRepository.java
+D:\test\microservices-java\microservices-new\product-service\src\main\java\com\akashmicroservices\productservice\dto\ProductRequest.java

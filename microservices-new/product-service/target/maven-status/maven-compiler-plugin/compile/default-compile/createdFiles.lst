@@ -1,0 +1,10 @@
+com\akashmicroservices\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\akashmicroservices\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\akashmicroservices\productservice\model\Product.class
+com\akashmicroservices\productservice\dto\ProductResponse.class
+com\akashmicroservices\productservice\repository\ProductRepository.class
+com\akashmicroservices\productservice\service\ProductService.class
+com\akashmicroservices\productservice\controller\ProductController.class
+com\akashmicroservices\productservice\dto\ProductRequest.class
+com\akashmicroservices\productservice\model\Product$ProductBuilder.class
+com\akashmicroservices\productservice\ProductServiceApplication.class
