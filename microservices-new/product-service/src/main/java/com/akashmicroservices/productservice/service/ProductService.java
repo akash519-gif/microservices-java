@@ -1,9 +1,9 @@
 package com.akashmicroservices.productservice.service;
 
-import com.akashmicroservices.productservice.dto.ProductRequest;
-import com.akashmicroservices.productservice.dto.ProductResponse;
 import com.akashmicroservices.productservice.model.Product;
 import com.akashmicroservices.productservice.repository.ProductRepository;
+import com.akashmicroservices.productservice.dto.ProductRequest;
+import com.akashmicroservices.productservice.dto.ProductResponse;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
